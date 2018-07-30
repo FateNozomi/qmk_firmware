@@ -1,0 +1,2 @@
+BOOTLOADER = qmk-dfu
+LEADER_ENABLE = yes
