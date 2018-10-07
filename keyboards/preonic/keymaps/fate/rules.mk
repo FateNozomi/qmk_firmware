@@ -1,0 +1,3 @@
+SRC += muse.c
+CONSOLE_ENABLE = no
+BACKLIGHT_ENABLE = no
